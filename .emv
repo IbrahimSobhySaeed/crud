@@ -1,3 +1,0 @@
-PORT=8080
-JWT_SECRET=tasksapi
-MONGO_URL='mongosh "mongodb+srv://cluster0.jfqkjdb.mongodb.net/myFirstDatabase" --apiVersion 1 --username IbrahimSobhy'
